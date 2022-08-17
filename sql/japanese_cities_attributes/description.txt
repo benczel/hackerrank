@@ -1,0 +1,11 @@
+Level: Easy
+SQL Dialect: Oracle
+Desription: 
+Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.
+
+Field	Type
+ID	NUMBER
+NAME	VARCHAR2(17)
+COUNTRYCODE VARCHAR(2)
+DISTRICT 	VARCHAR(2)
+POPULATION	NUMBER
