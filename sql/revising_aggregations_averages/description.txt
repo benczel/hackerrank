@@ -1,0 +1,11 @@
+Level: Easy
+SQL Dialect: Oracle
+Desription: 
+Query the average population of all cities in CITY where District is California.
+
+Field	Type
+ID	NUMBER
+NAME	VARCHAR2(17)
+COUNTRYCODE VARCHAR(2)
+DISTRICT 	VARCHAR(2)
+POPULATION	NUMBER
